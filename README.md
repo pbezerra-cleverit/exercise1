@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actions 
 
 _Create a GitHub Action and use it in a workflow._
 
@@ -19,7 +19,7 @@ _Create a GitHub Action and use it in a workflow._
 -->
 
 <!--step0-->
-
+; )
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
 - **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
